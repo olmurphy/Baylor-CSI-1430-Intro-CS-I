@@ -1,0 +1,14 @@
+hello,ahoy
+Bread,Pie
+hi,yo-ho-ho
+pardon me,avast
+excuse me,arrr
+my,me
+friend,me bucko
+sir,matey
+madam,proud beauty
+miss,comely wench
+stranger,scurvy dog
+officer,foul blaggart
+where,whar
+to,t'

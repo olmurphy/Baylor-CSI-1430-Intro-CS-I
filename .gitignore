@@ -1,0 +1,29 @@
+cat << 'EOF' > .gitignore
+# macOS
+.DS_Store
+
+# C / C++ compiled binaries & build folders
+*.o
+*.obj
+*.exe
+*.out
+a.out
+cmake-build-debug/
+cmake-build-release/
+Debug/
+Release/
+build/
+
+# IDEs (CLion, Xcode, VS Code, Eclipse)
+.idea/
+*.iml
+.vscode/
+xcuserdata/
+.settings/
+.classpath
+.project
+
+# Logs & duplicate submission archives
+*.log
+*.zip
+EOF

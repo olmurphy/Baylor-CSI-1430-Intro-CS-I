@@ -1,0 +1,60 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2509
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 #include <iostream>\
+#include <vector>\
+using namespace std;\
+\
+int main() \{\
+\
+   vector<int> jerseyNumbers;\
+   vector<int> ratingNumbers;\
+   int jerseyNum, ratingNum;\
+   int i;\
+   char option;\
+   \
+   for (i = 1; i <= 5; ++i) \{\
+      cout << "Enter player " << i << "'s jersey number:" << endl;\
+      cin >> jerseyNum;\
+      jerseyNumbers.push_back(jerseyNum);\
+      \
+      cout << "Enter player " << i << "'s rating:" << endl;\
+      cin >> ratingNum;\
+      ratingNumbers.push_back(ratingNum);\
+      \
+      cout << endl;\
+   \}\
+   \
+   cout << "ROSTER" << endl;\
+   for (i = 0; i < 5; ++i) \{\
+      cout << "Player " << i + 1 << " -- Jersey number: " << jerseyNumbers.at(i)\
+           << ", Rating: " << ratingNumbers.at(i) << endl;\
+   \}\
+   option = '1';\
+   \
+   while (option != 'q') \{\
+      cout << endl << "MENU\\na - Add player\\nd - Remove player\\nu - Update player rating\\n"\
+           << "r - Output players above a rating\\no - Output roster\\nq - Quit\\n" << endl;\
+   \
+      cout << "Choose an option:" << endl;\
+      cin >> option;\
+      \
+      switch (option) \{\
+         case 'o':\
+            cout << "ROSTER" << endl;\
+            for (i = 0; i < 5; ++i) \{\
+               cout << "Player " << i + 1 << " -- Jersey number: " << jerseyNumbers.at(i)\
+                    << ", Rating: " << ratingNumbers.at(i) << endl;\
+            \}\
+         case 'a':\
+      \}\
+   \}\
+   \
+   \
+   \
+   return 0;\
+\}}

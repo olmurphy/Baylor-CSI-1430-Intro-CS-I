@@ -1,0 +1,1876 @@
+# depslib dependency file v1.0
+1575534309 source:c:\users\tupper\desktop\boothswork\enemy.cpp
+	"Enemy.h"
+
+1575530617 source:c:\users\tupper\desktop\boothswork\ship.cpp
+	"Ship.h"
+
+1575531111 source:c:\users\tupper\desktop\boothswork\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+
+1575325249 source:c:\users\tupper\desktop\boothswork\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575325249 c:\users\tupper\desktop\boothswork\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575325249 source:c:\users\tupper\desktop\boothswork\point.cpp
+	"point.h"
+
+1575325249 c:\users\tupper\desktop\boothswork\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575529957 c:\users\tupper\desktop\boothswork\color.h
+
+1575530190 c:\users\tupper\desktop\boothswork\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575534285 c:\users\tupper\desktop\boothswork\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575325249 source:c:\users\tupper\downloads\boothswork\boothswork\point.cpp
+	"point.h"
+
+1575325249 c:\users\tupper\downloads\boothswork\boothswork\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575325249 c:\users\tupper\downloads\boothswork\boothswork\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575325249 c:\users\tupper\downloads\boothswork\boothswork\color.h
+
+1575325249 source:c:\users\tupper\downloads\boothswork\boothswork\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575325249 source:c:\users\tupper\downloads\boothswork\boothswork\ship.cpp
+	"Ship.h"
+
+1575325249 c:\users\tupper\downloads\boothswork\boothswork\ship.h
+	"point.h"
+
+1575331176 source:c:\users\tupper\downloads\boothswork\boothswork\enemy.cpp
+	"Enemy.h"
+
+1575330066 c:\users\tupper\downloads\boothswork\boothswork\enemy.h
+	"point.h"
+	"color.h"
+
+1575332064 source:c:\users\tupper\downloads\boothswork\boothswork\main.cpp
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	<iostream>
+	<cctype>
+	<ctime>
+
+1575331876 source:c:\users\tupper\downloads\boothswork\boothswork\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575331670 c:\users\tupper\downloads\boothswork\boothswork\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+
+1575431078 source:e:\boothswork\boothswork\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575430173 e:\boothswork\boothswork\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+
+1575325249 e:\boothswork\boothswork\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575330066 e:\boothswork\boothswork\enemy.h
+	"point.h"
+	"color.h"
+
+1575325249 e:\boothswork\boothswork\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575421495 e:\boothswork\boothswork\color.h
+
+1575431132 source:e:\boothswork\boothswork\main.cpp
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	<iostream>
+	<cctype>
+	<ctime>
+
+1575423944 e:\boothswork\boothswork\ship.h
+	"point.h"
+
+1575325249 source:e:\boothswork\boothswork\point.cpp
+	"point.h"
+
+1575325249 source:e:\boothswork\boothswork\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575423979 source:e:\boothswork\boothswork\ship.cpp
+	"Ship.h"
+
+1575429115 source:e:\boothswork\boothswork\enemy.cpp
+	"Enemy.h"
+
+1575429061 source:e:\boothswork\boothswork\bullet.cpp
+	"Bullet.h"
+
+1575424637 e:\boothswork\boothswork\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575429061 source:c:\users\tupper\desktop\boothswork\boothswork\bullet.cpp
+	"Bullet.h"
+
+1575424637 c:\users\tupper\desktop\boothswork\boothswork\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575325249 c:\users\tupper\desktop\boothswork\boothswork\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575325249 c:\users\tupper\desktop\boothswork\boothswork\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575421495 c:\users\tupper\desktop\boothswork\boothswork\color.h
+
+1575423944 c:\users\tupper\desktop\boothswork\boothswork\ship.h
+	"point.h"
+
+1575429115 source:c:\users\tupper\desktop\boothswork\boothswork\enemy.cpp
+	"Enemy.h"
+
+1575330066 c:\users\tupper\desktop\boothswork\boothswork\enemy.h
+	"point.h"
+	"color.h"
+
+1575433513 source:c:\users\tupper\desktop\boothswork\boothswork\main.cpp
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	<iostream>
+	<cctype>
+	<ctime>
+
+1575433371 c:\users\tupper\desktop\boothswork\boothswork\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+
+1575325249 source:c:\users\tupper\desktop\boothswork\boothswork\point.cpp
+	"point.h"
+
+1575325249 source:c:\users\tupper\desktop\boothswork\boothswork\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575423979 source:c:\users\tupper\desktop\boothswork\boothswork\ship.cpp
+	"Ship.h"
+
+1575433497 source:c:\users\tupper\desktop\boothswork\boothswork\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575429061 source:w:\boothswork\boothswork\bullet.cpp
+	"Bullet.h"
+
+1575424637 w:\boothswork\boothswork\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575325249 w:\boothswork\boothswork\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575325249 w:\boothswork\boothswork\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575421495 w:\boothswork\boothswork\color.h
+
+1575423944 w:\boothswork\boothswork\ship.h
+	"point.h"
+
+1575429115 source:w:\boothswork\boothswork\enemy.cpp
+	"Enemy.h"
+
+1575330066 w:\boothswork\boothswork\enemy.h
+	"point.h"
+	"color.h"
+
+1575433497 source:w:\boothswork\boothswork\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575433371 w:\boothswork\boothswork\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+
+1575433577 source:w:\boothswork\boothswork\main.cpp
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	<iostream>
+	<cctype>
+	<ctime>
+
+1575325249 source:w:\boothswork\boothswork\point.cpp
+	"point.h"
+
+1575325249 source:w:\boothswork\boothswork\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575423979 source:w:\boothswork\boothswork\ship.cpp
+	"Ship.h"
+
+1575429061 source:c:\c++programs2\boothswork\bullet.cpp
+	"Bullet.h"
+
+1575424637 c:\c++programs2\boothswork\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575325249 c:\c++programs2\boothswork\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575325249 c:\c++programs2\boothswork\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575421495 c:\c++programs2\boothswork\color.h
+
+1575423944 c:\c++programs2\boothswork\ship.h
+	"point.h"
+
+1575429115 source:c:\c++programs2\boothswork\enemy.cpp
+	"Enemy.h"
+
+1575330066 c:\c++programs2\boothswork\enemy.h
+	"point.h"
+	"color.h"
+
+1575433497 source:c:\c++programs2\boothswork\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575490043 c:\c++programs2\boothswork\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+
+1575488236 source:c:\c++programs2\boothswork\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+
+1575325249 source:c:\c++programs2\boothswork\point.cpp
+	"point.h"
+
+1575325249 source:c:\c++programs2\boothswork\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575423979 source:c:\c++programs2\boothswork\ship.cpp
+	"Ship.h"
+
+1575498302 source:e:\boothswork\boothswork\boothswork\bullet.cpp
+	"Bullet.h"
+
+1575424637 e:\boothswork\boothswork\boothswork\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575325249 e:\boothswork\boothswork\boothswork\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575325249 e:\boothswork\boothswork\boothswork\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575505539 e:\boothswork\boothswork\boothswork\color.h
+
+1575507839 e:\boothswork\boothswork\boothswork\ship.h
+	"point.h"
+
+1575429115 source:e:\boothswork\boothswork\boothswork\enemy.cpp
+	"Enemy.h"
+
+1575330066 e:\boothswork\boothswork\boothswork\enemy.h
+	"point.h"
+	"color.h"
+
+1575507067 source:e:\boothswork\boothswork\boothswork\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575507022 e:\boothswork\boothswork\boothswork\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	<ctime>
+	<cstdlib>
+
+1575507616 source:e:\boothswork\boothswork\boothswork\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+
+1575325249 source:e:\boothswork\boothswork\boothswork\point.cpp
+	"point.h"
+
+1575325249 source:e:\boothswork\boothswork\boothswork\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575507352 source:e:\boothswork\boothswork\boothswork\ship.cpp
+	"Ship.h"
+
+1575507773 source:e:\boothswork\boothswork\boothswork\level.cpp
+	"level.h"
+
+1575508128 e:\boothswork\boothswork\boothswork\level.h
+	<ctime>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+
+1575498302 source:c:\users\tupper\desktop\boothswork\bullet.cpp
+	"Bullet.h"
+
+1575424637 c:\users\tupper\desktop\boothswork\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575536557 source:c:\users\tupper\desktop\boothswork\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575535640 c:\users\tupper\desktop\boothswork\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	<ctime>
+	<cstdlib>
+
+1575537291 source:c:\users\tupper\desktop\boothswork\level.cpp
+	"level.h"
+
+1575530899 c:\users\tupper\desktop\boothswork\level.h
+	<ctime>
+	<sstream>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+
+1575527217 source:c:\users\tupper\desktop\boothswork\display.cpp
+	"display.h"
+
+1575523490 c:\users\tupper\desktop\boothswork\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575498302 source:e:\granddoctrine\boothswork_0.6\bullet.cpp
+	"Bullet.h"
+
+1575424637 e:\granddoctrine\boothswork_0.6\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575325249 e:\granddoctrine\boothswork_0.6\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575325249 e:\granddoctrine\boothswork_0.6\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575529957 e:\granddoctrine\boothswork_0.6\color.h
+
+1575530190 e:\granddoctrine\boothswork_0.6\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575527217 source:e:\granddoctrine\boothswork_0.6\display.cpp
+	"display.h"
+
+1575523490 e:\granddoctrine\boothswork_0.6\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:e:\granddoctrine\boothswork_0.6\enemy.cpp
+	"Enemy.h"
+
+1575534285 e:\granddoctrine\boothswork_0.6\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575537325 source:e:\granddoctrine\boothswork_0.6\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575535640 e:\granddoctrine\boothswork_0.6\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	<ctime>
+	<cstdlib>
+
+1575537291 source:e:\granddoctrine\boothswork_0.6\level.cpp
+	"level.h"
+
+1575530899 e:\granddoctrine\boothswork_0.6\level.h
+	<ctime>
+	<sstream>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+
+1575531111 source:e:\granddoctrine\boothswork_0.6\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+
+1575325249 source:e:\granddoctrine\boothswork_0.6\point.cpp
+	"point.h"
+
+1575325249 source:e:\granddoctrine\boothswork_0.6\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575530617 source:e:\granddoctrine\boothswork_0.6\ship.cpp
+	"Ship.h"
+
+1575498302 source:w:\granddoctrine\boothswork_0.6\bullet.cpp
+	"Bullet.h"
+
+1575424637 w:\granddoctrine\boothswork_0.6\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575325249 w:\granddoctrine\boothswork_0.6\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575325249 w:\granddoctrine\boothswork_0.6\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575529957 w:\granddoctrine\boothswork_0.6\color.h
+
+1575530190 w:\granddoctrine\boothswork_0.6\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575527217 source:w:\granddoctrine\boothswork_0.6\display.cpp
+	"display.h"
+
+1575523490 w:\granddoctrine\boothswork_0.6\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:w:\granddoctrine\boothswork_0.6\enemy.cpp
+	"Enemy.h"
+
+1575534285 w:\granddoctrine\boothswork_0.6\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575537325 source:w:\granddoctrine\boothswork_0.6\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575535640 w:\granddoctrine\boothswork_0.6\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	<ctime>
+	<cstdlib>
+
+1575537291 source:w:\granddoctrine\boothswork_0.6\level.cpp
+	"level.h"
+
+1575530899 w:\granddoctrine\boothswork_0.6\level.h
+	<ctime>
+	<sstream>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+
+1575531111 source:w:\granddoctrine\boothswork_0.6\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+
+1575325249 source:w:\granddoctrine\boothswork_0.6\point.cpp
+	"point.h"
+
+1575325249 source:w:\granddoctrine\boothswork_0.6\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575530617 source:w:\granddoctrine\boothswork_0.6\ship.cpp
+	"Ship.h"
+
+1575498302 source:c:\users\dylan\desktop\boothswork_0.6\bullet.cpp
+	"Bullet.h"
+
+1575424637 c:\users\dylan\desktop\boothswork_0.6\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575325249 c:\users\dylan\desktop\boothswork_0.6\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575325249 c:\users\dylan\desktop\boothswork_0.6\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575529957 c:\users\dylan\desktop\boothswork_0.6\color.h
+
+1575530190 c:\users\dylan\desktop\boothswork_0.6\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575527217 source:c:\users\dylan\desktop\boothswork_0.6\display.cpp
+	"display.h"
+
+1575523490 c:\users\dylan\desktop\boothswork_0.6\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:c:\users\dylan\desktop\boothswork_0.6\enemy.cpp
+	"Enemy.h"
+
+1575534285 c:\users\dylan\desktop\boothswork_0.6\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575662198 source:c:\users\dylan\desktop\boothswork_0.6\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575623607 c:\users\dylan\desktop\boothswork_0.6\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	<ctime>
+	<cstdlib>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1575661839 source:c:\users\dylan\desktop\boothswork_0.6\level.cpp
+	"level.h"
+
+1575620762 c:\users\dylan\desktop\boothswork_0.6\level.h
+	<ctime>
+	<sstream>
+	<SDL.h>
+	<SDL_mixer.h>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+
+1575531111 source:c:\users\dylan\desktop\boothswork_0.6\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+
+1575325249 source:c:\users\dylan\desktop\boothswork_0.6\point.cpp
+	"point.h"
+
+1575325249 source:c:\users\dylan\desktop\boothswork_0.6\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575530617 source:c:\users\dylan\desktop\boothswork_0.6\ship.cpp
+	"Ship.h"
+
+1575498302 source:e:\granddoctrine\boothswork_0.8\bullet.cpp
+	"Bullet.h"
+
+1575424637 e:\granddoctrine\boothswork_0.8\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575325249 e:\granddoctrine\boothswork_0.8\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575325249 e:\granddoctrine\boothswork_0.8\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575529957 e:\granddoctrine\boothswork_0.8\color.h
+
+1575530190 e:\granddoctrine\boothswork_0.8\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575527217 source:e:\granddoctrine\boothswork_0.8\display.cpp
+	"display.h"
+
+1575523490 e:\granddoctrine\boothswork_0.8\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:e:\granddoctrine\boothswork_0.8\enemy.cpp
+	"Enemy.h"
+
+1575534285 e:\granddoctrine\boothswork_0.8\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575325249 source:e:\granddoctrine\boothswork_0.8\point.cpp
+	"point.h"
+
+1575325249 source:e:\granddoctrine\boothswork_0.8\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575530617 source:e:\granddoctrine\boothswork_0.8\ship.cpp
+	"Ship.h"
+
+1575662198 source:e:\granddoctrine\boothswork_0.8\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575686073 e:\granddoctrine\boothswork_0.8\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	<ctime>
+	<cstdlib>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1575661839 source:e:\granddoctrine\boothswork_0.8\level.cpp
+	"level.h"
+
+1575686077 e:\granddoctrine\boothswork_0.8\level.h
+	<ctime>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+
+1575531111 source:e:\granddoctrine\boothswork_0.8\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+
+1575498302 source:c:\users\tupper\desktop\boothswork_0.8\bullet.cpp
+	"Bullet.h"
+
+1575424637 c:\users\tupper\desktop\boothswork_0.8\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575325249 c:\users\tupper\desktop\boothswork_0.8\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575325249 c:\users\tupper\desktop\boothswork_0.8\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575799544 c:\users\tupper\desktop\boothswork_0.8\color.h
+
+1575530190 c:\users\tupper\desktop\boothswork_0.8\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575527217 source:c:\users\tupper\desktop\boothswork_0.8\display.cpp
+	"display.h"
+
+1575523490 c:\users\tupper\desktop\boothswork_0.8\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:c:\users\tupper\desktop\boothswork_0.8\enemy.cpp
+	"Enemy.h"
+
+1575534285 c:\users\tupper\desktop\boothswork_0.8\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575809021 source:c:\users\tupper\desktop\boothswork_0.8\level.cpp
+	"level.h"
+
+1575801316 c:\users\tupper\desktop\boothswork_0.8\level.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+	"Booth.h"
+
+1575805513 c:\users\tupper\desktop\boothswork_0.8\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Booth.h"
+	<ctime>
+	<cstdlib>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1575809566 source:c:\users\tupper\desktop\boothswork_0.8\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+	"Booth.h"
+
+1575325249 source:c:\users\tupper\desktop\boothswork_0.8\point.cpp
+	"point.h"
+
+1575325249 source:c:\users\tupper\desktop\boothswork_0.8\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575771165 source:c:\users\tupper\desktop\boothswork_0.8\ship.cpp
+	"Ship.h"
+
+1575805502 source:c:\users\tupper\desktop\boothswork_0.8\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575797975 source:c:\users\tupper\desktop\boothswork_0.8\booth.cpp
+	"Booth.h"
+
+1575797975 c:\users\tupper\desktop\boothswork_0.8\booth.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+
+1575797975 source:c:\users\tupper\desktop\boothswork_0.8 - copy\booth.cpp
+	"Booth.h"
+
+1575797975 c:\users\tupper\desktop\boothswork_0.8 - copy\booth.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+
+1575325249 c:\users\tupper\desktop\boothswork_0.8 - copy\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575534285 c:\users\tupper\desktop\boothswork_0.8 - copy\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575325249 c:\users\tupper\desktop\boothswork_0.8 - copy\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575799544 c:\users\tupper\desktop\boothswork_0.8 - copy\color.h
+
+1575424637 c:\users\tupper\desktop\boothswork_0.8 - copy\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575530190 c:\users\tupper\desktop\boothswork_0.8 - copy\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575498302 source:c:\users\tupper\desktop\boothswork_0.8 - copy\bullet.cpp
+	"Bullet.h"
+
+1575527217 source:c:\users\tupper\desktop\boothswork_0.8 - copy\display.cpp
+	"display.h"
+
+1575523490 c:\users\tupper\desktop\boothswork_0.8 - copy\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:c:\users\tupper\desktop\boothswork_0.8 - copy\enemy.cpp
+	"Enemy.h"
+
+1575799074 source:c:\users\tupper\desktop\boothswork_0.8 - copy\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575798324 c:\users\tupper\desktop\boothswork_0.8 - copy\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Booth.h"
+	<ctime>
+	<cstdlib>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1575804536 source:c:\users\tupper\desktop\boothswork_0.8 - copy\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+	"Booth.h"
+
+1575801316 c:\users\tupper\desktop\boothswork_0.8 - copy\level.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+	"Booth.h"
+
+1575325249 source:c:\users\tupper\desktop\boothswork_0.8 - copy\point.cpp
+	"point.h"
+
+1575325249 source:c:\users\tupper\desktop\boothswork_0.8 - copy\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575771165 source:c:\users\tupper\desktop\boothswork_0.8 - copy\ship.cpp
+	"Ship.h"
+
+1575804728 source:c:\users\tupper\desktop\boothswork_0.8 - copy\level.cpp
+	"level.h"
+
+1575797975 source:e:\granddoctrine\boothswork_0.9_2\booth.cpp
+	"Booth.h"
+
+1575797975 e:\granddoctrine\boothswork_0.9_2\booth.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+
+1575325249 e:\granddoctrine\boothswork_0.9_2\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575534285 e:\granddoctrine\boothswork_0.9_2\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575325249 e:\granddoctrine\boothswork_0.9_2\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575799544 e:\granddoctrine\boothswork_0.9_2\color.h
+
+1575424637 e:\granddoctrine\boothswork_0.9_2\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575530190 e:\granddoctrine\boothswork_0.9_2\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575498302 source:e:\granddoctrine\boothswork_0.9_2\bullet.cpp
+	"Bullet.h"
+
+1575527217 source:e:\granddoctrine\boothswork_0.9_2\display.cpp
+	"display.h"
+
+1575523490 e:\granddoctrine\boothswork_0.9_2\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:e:\granddoctrine\boothswork_0.9_2\enemy.cpp
+	"Enemy.h"
+
+1575805502 source:e:\granddoctrine\boothswork_0.9_2\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575805513 e:\granddoctrine\boothswork_0.9_2\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Booth.h"
+	<ctime>
+	<cstdlib>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1575811526 source:e:\granddoctrine\boothswork_0.9_2\level.cpp
+	"level.h"
+
+1575801316 e:\granddoctrine\boothswork_0.9_2\level.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+	"Booth.h"
+
+1575809566 source:e:\granddoctrine\boothswork_0.9_2\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+	"Booth.h"
+
+1575325249 source:e:\granddoctrine\boothswork_0.9_2\point.cpp
+	"point.h"
+
+1575325249 source:e:\granddoctrine\boothswork_0.9_2\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575771165 source:e:\granddoctrine\boothswork_0.9_2\ship.cpp
+	"Ship.h"
+
+1575797975 source:w:\granddoctrine\boothswork_0.9_2\booth.cpp
+	"Booth.h"
+
+1575797975 w:\granddoctrine\boothswork_0.9_2\booth.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+
+1575325249 w:\granddoctrine\boothswork_0.9_2\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575534285 w:\granddoctrine\boothswork_0.9_2\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575325249 w:\granddoctrine\boothswork_0.9_2\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575799544 w:\granddoctrine\boothswork_0.9_2\color.h
+
+1575424637 w:\granddoctrine\boothswork_0.9_2\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575530190 w:\granddoctrine\boothswork_0.9_2\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575498302 source:w:\granddoctrine\boothswork_0.9_2\bullet.cpp
+	"Bullet.h"
+
+1575527217 source:w:\granddoctrine\boothswork_0.9_2\display.cpp
+	"display.h"
+
+1575523490 w:\granddoctrine\boothswork_0.9_2\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:w:\granddoctrine\boothswork_0.9_2\enemy.cpp
+	"Enemy.h"
+
+1575805502 source:w:\granddoctrine\boothswork_0.9_2\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575805513 w:\granddoctrine\boothswork_0.9_2\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Booth.h"
+	<ctime>
+	<cstdlib>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1575809566 source:w:\granddoctrine\boothswork_0.9_2\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+	"Booth.h"
+
+1575801316 w:\granddoctrine\boothswork_0.9_2\level.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+	"Booth.h"
+
+1575325249 source:w:\granddoctrine\boothswork_0.9_2\point.cpp
+	"point.h"
+
+1575325249 source:w:\granddoctrine\boothswork_0.9_2\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575771165 source:w:\granddoctrine\boothswork_0.9_2\ship.cpp
+	"Ship.h"
+
+1575797975 source:c:\users\tupper\desktop\boothswork_0.9_2\booth.cpp
+	"Booth.h"
+
+1575859925 c:\users\tupper\desktop\boothswork_0.9_2\booth.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+
+1575325249 c:\users\tupper\desktop\boothswork_0.9_2\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575859925 c:\users\tupper\desktop\boothswork_0.9_2\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575325249 c:\users\tupper\desktop\boothswork_0.9_2\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575799544 c:\users\tupper\desktop\boothswork_0.9_2\color.h
+
+1575424637 c:\users\tupper\desktop\boothswork_0.9_2\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575859925 c:\users\tupper\desktop\boothswork_0.9_2\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575498302 source:c:\users\tupper\desktop\boothswork_0.9_2\bullet.cpp
+	"Bullet.h"
+
+1575527217 source:c:\users\tupper\desktop\boothswork_0.9_2\display.cpp
+	"display.h"
+
+1575523490 c:\users\tupper\desktop\boothswork_0.9_2\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:c:\users\tupper\desktop\boothswork_0.9_2\enemy.cpp
+	"Enemy.h"
+
+1575805502 source:c:\users\tupper\desktop\boothswork_0.9_2\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575859925 c:\users\tupper\desktop\boothswork_0.9_2\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Booth.h"
+	<ctime>
+	<cstdlib>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1575861526 source:c:\users\tupper\desktop\boothswork_0.9_2\level.cpp
+	"level.h"
+
+1575860959 c:\users\tupper\desktop\boothswork_0.9_2\level.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+	"Booth.h"
+
+1575861112 source:c:\users\tupper\desktop\boothswork_0.9_2\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+	"Booth.h"
+
+1575325249 source:c:\users\tupper\desktop\boothswork_0.9_2\point.cpp
+	"point.h"
+
+1575325249 source:c:\users\tupper\desktop\boothswork_0.9_2\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575771165 source:c:\users\tupper\desktop\boothswork_0.9_2\ship.cpp
+	"Ship.h"
+
+1575797975 source:e:\granddoctrine\boothswork_0.9_4\booth.cpp
+	"Booth.h"
+
+1575859925 e:\granddoctrine\boothswork_0.9_4\booth.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+
+1575325249 e:\granddoctrine\boothswork_0.9_4\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575859925 e:\granddoctrine\boothswork_0.9_4\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575325249 e:\granddoctrine\boothswork_0.9_4\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575799544 e:\granddoctrine\boothswork_0.9_4\color.h
+
+1575424637 e:\granddoctrine\boothswork_0.9_4\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575859925 e:\granddoctrine\boothswork_0.9_4\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575498302 source:e:\granddoctrine\boothswork_0.9_4\bullet.cpp
+	"Bullet.h"
+
+1575527217 source:e:\granddoctrine\boothswork_0.9_4\display.cpp
+	"display.h"
+
+1575523490 e:\granddoctrine\boothswork_0.9_4\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:e:\granddoctrine\boothswork_0.9_4\enemy.cpp
+	"Enemy.h"
+
+1575805502 source:e:\granddoctrine\boothswork_0.9_4\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575859925 e:\granddoctrine\boothswork_0.9_4\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Booth.h"
+	<ctime>
+	<cstdlib>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1575864877 source:e:\granddoctrine\boothswork_0.9_4\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+	"Booth.h"
+
+1575860959 e:\granddoctrine\boothswork_0.9_4\level.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+	"Booth.h"
+
+1575325249 source:e:\granddoctrine\boothswork_0.9_4\point.cpp
+	"point.h"
+
+1575863781 source:e:\granddoctrine\boothswork_0.9_4\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575771165 source:e:\granddoctrine\boothswork_0.9_4\ship.cpp
+	"Ship.h"
+
+1575865092 source:e:\granddoctrine\boothswork_0.9_4\level.cpp
+	"level.h"
+
+1575797975 source:e:\granddoctrine\boothswork_0.9_5\booth.cpp
+	"Booth.h"
+
+1575859925 e:\granddoctrine\boothswork_0.9_5\booth.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+
+1575325249 e:\granddoctrine\boothswork_0.9_5\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575859925 e:\granddoctrine\boothswork_0.9_5\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575325249 e:\granddoctrine\boothswork_0.9_5\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575799544 e:\granddoctrine\boothswork_0.9_5\color.h
+
+1575424637 e:\granddoctrine\boothswork_0.9_5\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575859925 e:\granddoctrine\boothswork_0.9_5\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575498302 source:e:\granddoctrine\boothswork_0.9_5\bullet.cpp
+	"Bullet.h"
+
+1575527217 source:e:\granddoctrine\boothswork_0.9_5\display.cpp
+	"display.h"
+
+1575523490 e:\granddoctrine\boothswork_0.9_5\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575534309 source:e:\granddoctrine\boothswork_0.9_5\enemy.cpp
+	"Enemy.h"
+
+1575805502 source:e:\granddoctrine\boothswork_0.9_5\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575859925 e:\granddoctrine\boothswork_0.9_5\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Booth.h"
+	<ctime>
+	<cstdlib>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1575865092 source:e:\granddoctrine\boothswork_0.9_5\level.cpp
+	"level.h"
+
+1575860959 e:\granddoctrine\boothswork_0.9_5\level.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+	"Booth.h"
+
+1575864877 source:e:\granddoctrine\boothswork_0.9_5\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+	"Booth.h"
+
+1575325249 source:e:\granddoctrine\boothswork_0.9_5\point.cpp
+	"point.h"
+
+1575863781 source:e:\granddoctrine\boothswork_0.9_5\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575771165 source:e:\granddoctrine\boothswork_0.9_5\ship.cpp
+	"Ship.h"
+
+1575927962 source:w:\granddoctrine\boothswork_0.9_5\booth.cpp
+	"Booth.h"
+
+1575927962 w:\granddoctrine\boothswork_0.9_5\booth.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+
+1575927961 w:\granddoctrine\boothswork_0.9_5\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1575927962 w:\granddoctrine\boothswork_0.9_5\enemy.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575927961 w:\granddoctrine\boothswork_0.9_5\point.h
+	<ostream>
+	<cmath>
+	"SDL_Plotter.h"
+	"color.h"
+
+1575927983 w:\granddoctrine\boothswork_0.9_5\color.h
+
+1575927962 w:\granddoctrine\boothswork_0.9_5\bullet.h
+	"point.h"
+	"color.h"
+	"Ship.h"
+	"SDL_Plotter.h"
+
+1575927961 w:\granddoctrine\boothswork_0.9_5\ship.h
+	"point.h"
+	"color.h"
+	<fstream>
+
+1575927961 source:w:\granddoctrine\boothswork_0.9_5\bullet.cpp
+	"Bullet.h"
+
+1575927961 source:w:\granddoctrine\boothswork_0.9_5\display.cpp
+	"display.h"
+
+1575927961 w:\granddoctrine\boothswork_0.9_5\display.h
+	<fstream>
+	<iostream>
+	<string>
+	"SDL_Plotter.h"
+	"point.h"
+
+1575927962 source:w:\granddoctrine\boothswork_0.9_5\enemy.cpp
+	"Enemy.h"
+
+1575927962 source:w:\granddoctrine\boothswork_0.9_5\helperfunctions.cpp
+	"helperFunctions.h"
+
+1575927962 w:\granddoctrine\boothswork_0.9_5\helperfunctions.h
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Booth.h"
+	<ctime>
+	<cstdlib>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1575928765 source:w:\granddoctrine\boothswork_0.9_5\level.cpp
+	"level.h"
+
+1575927962 w:\granddoctrine\boothswork_0.9_5\level.h
+	<ctime>
+	<string>
+	<iostream>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	"helperFunctions.h"
+	"SDL_Plotter.h"
+	"Enemy.h"
+	"color.h"
+	"Bullet.h"
+	"Ship.h"
+	"point.h"
+	"display.h"
+	"Booth.h"
+
+1575929247 source:w:\granddoctrine\boothswork_0.9_5\main.cpp
+	<iostream>
+	<cctype>
+	<ctime>
+	<fstream>
+	<string>
+	"SDL_Plotter.h"
+	"Ship.h"
+	"Enemy.h"
+	"helperFunctions.h"
+	"Bullet.h"
+	"level.h"
+	"display.h"
+	"Booth.h"
+
+1575927962 source:w:\granddoctrine\boothswork_0.9_5\point.cpp
+	"point.h"
+
+1575927962 source:w:\granddoctrine\boothswork_0.9_5\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1575927962 source:w:\granddoctrine\boothswork_0.9_5\ship.cpp
+	"Ship.h"
+
